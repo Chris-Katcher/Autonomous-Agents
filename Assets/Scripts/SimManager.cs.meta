@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3aab93505eaad734c9c6d178112e9500
+timeCreated: 1463067979
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - seekerGO: {instanceID: 0}
+  - mainCharGO: {instanceID: 0}
+  - CowManagerGO: {instanceID: 0}
+  - seekerPrefab: {fileID: 179816, guid: c507f4a22e5aa2f449b3263170aae501, type: 2}
+  - targetPrefab: {instanceID: 0}
+  - mainCharPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

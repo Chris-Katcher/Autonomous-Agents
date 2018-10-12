@@ -1,0 +1,35 @@
+# Blender3D MTL File: 
+# Material Count: 3
+newmtl MOS_IOS_PROP_KFAR_FHA
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd MOS_IOS_LOCATION_Kent_Farm_Structure_Farm_House_Roof_D.png
+
+
+newmtl material_2
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd MOS_IOS_LOCATION_Kent_Farm_Structure_Farm_House_Side_D.png
+
+
+newmtl material_1.001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd MOS_IOS_LOCATION_Kent_Farm_Structure_Farm_House_Modular_D.png
+
+
